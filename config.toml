@@ -1,0 +1,4 @@
+baseURL = 'http://bhazog.github.io/'
+languageCode = 'en-us'
+title = 'test'
+theme = "ananke"
