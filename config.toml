@@ -2,3 +2,8 @@ baseURL = 'http://bhazog.github.io/'
 languageCode = 'en-us'
 title = 'test'
 theme = "ananke"
+#theme = "hugo-theme-monochrome"
+
+[params]
+footer = "Copyright © 1999 by test"
+enable_toc = true
