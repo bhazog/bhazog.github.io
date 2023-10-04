@@ -1,6 +1,6 @@
 baseURL = 'http://bhazog.github.io/'
 languageCode = 'en-us'
-title = '.'
+title = 'test'
 theme = "ananke"
 #theme = "hugo-theme-monochrome"
 
